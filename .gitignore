@@ -1,0 +1,10 @@
+# Zugangsdaten – niemals einchecken!
+.env
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
